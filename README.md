@@ -17,3 +17,6 @@ Layout Contains
     columns will be resized to fit the text in the cells
 
 - ctrl+h for Find and Replace
+## Formulas
+- In cell: =200*137
+    or use cell references =c2*d2
