@@ -10,4 +10,4 @@ Layout Contains
 ## Editing Cell contents
 - Click on cell: to erase everything/ will select entire cell
 - Click in the cell(double click) in the cell: so you can edit part of text
-## Adding new Rows
+## Adding new Rows and Columns
