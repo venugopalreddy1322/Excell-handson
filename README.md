@@ -12,3 +12,4 @@ Layout Contains
 - Click in the cell(double click) in the cell: so you can edit part of text
 ## Adding new Rows and Columns
 - Right click on the row or column and select Insert option to add row or column
+### To fit the text in the cells 
