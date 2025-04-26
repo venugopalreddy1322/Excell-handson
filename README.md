@@ -13,3 +13,4 @@ Layout Contains
 ## Adding new Rows and Columns
 - Right click on the row or column and select Insert option to add row or column
 ### To fit the text in the cells for ex to see the complete Heading of column
+- Select the columns and double click betwwen any columns
