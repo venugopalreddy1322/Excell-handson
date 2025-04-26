@@ -15,4 +15,5 @@ Layout Contains
 ### To fit the text in the cells for ex to see the complete Heading of column
 - Select the columns and double click betwwen any columns 
     columns will be resized to fit the text in the cells
-    
+
+- ctrl+h for Find and Replace
