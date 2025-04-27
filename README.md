@@ -20,3 +20,4 @@ Layout Contains
 ## Formulas
 - In cell: =200*137
     or use cell references =c2*d2
+    To use particular cell values c2*$d$2
